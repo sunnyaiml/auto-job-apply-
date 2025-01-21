@@ -1,0 +1,15 @@
+{
+    "search": {
+        "keywords": "Data Analyst",
+        "location": "Remote",
+        "experience_level": "Entry Level",
+        "job_type": "Full-time"
+    },
+    "resume_path": "assets/Sunny-Resume.pdf",
+    "cover_letter_path": "assets/Cover_Letter.pdf",
+    "application_delay": 5,
+    "max_applications_per_day": 50,
+    "portals": ["linkedin", "indeed", "internshala", "naukri"],
+    "blacklisted_companies": [],
+    "preferred_companies": []
+}

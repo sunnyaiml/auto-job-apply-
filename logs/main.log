@@ -1,0 +1,181 @@
+2025-01-17 21:08:46,670 - INFO - Successfully logged into LinkedIn
+2025-01-17 21:09:06,785 - ERROR - Error during LinkedIn job search: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF7356CBC22]
+	(No symbol) [0x00007FF7356CE99C]
+	(No symbol) [0x00007FF7356CEA6F]
+	(No symbol) [0x00007FF73570F38C]
+	(No symbol) [0x00007FF73573FF0A]
+	(No symbol) [0x00007FF73570BE46]
+	(No symbol) [0x00007FF735740120]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:09:06,785 - INFO - Successfully saved 0 jobs to linkedin_jobs.json
+2025-01-17 21:09:06,785 - INFO - Successfully applied to 0 out of 0 jobs
+2025-01-17 21:17:05,182 - INFO - Successfully logged into LinkedIn
+2025-01-17 21:17:23,240 - ERROR - Error during LinkedIn job search: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF7356CBC22]
+	(No symbol) [0x00007FF7356CE99C]
+	(No symbol) [0x00007FF7356CEA6F]
+	(No symbol) [0x00007FF73570F38C]
+	(No symbol) [0x00007FF73573FF0A]
+	(No symbol) [0x00007FF73570BE46]
+	(No symbol) [0x00007FF735740120]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:17:23,242 - INFO - Successfully saved 0 jobs to linkedin_jobs.json
+2025-01-17 21:17:23,243 - INFO - Successfully applied to 0 out of 0 jobs
+2025-01-17 21:21:58,669 - INFO - Successfully logged into LinkedIn
+2025-01-17 21:22:14,693 - ERROR - Error during LinkedIn job search: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF7356CBC22]
+	(No symbol) [0x00007FF7356CE99C]
+	(No symbol) [0x00007FF7356CEA6F]
+	(No symbol) [0x00007FF73570F38C]
+	(No symbol) [0x00007FF73573FF0A]
+	(No symbol) [0x00007FF73570BE46]
+	(No symbol) [0x00007FF735740120]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:22:14,693 - INFO - Job search completed. Press Enter to close the browser...
+2025-01-17 21:30:32,324 - INFO - Successfully logged into LinkedIn
+2025-01-17 21:30:51,781 - ERROR - Error during LinkedIn job search: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF7356CBC22]
+	(No symbol) [0x00007FF7356CE99C]
+	(No symbol) [0x00007FF7356CEA6F]
+	(No symbol) [0x00007FF73570F38C]
+	(No symbol) [0x00007FF73573FF0A]
+	(No symbol) [0x00007FF73570BE46]
+	(No symbol) [0x00007FF735740120]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:30:51,781 - INFO - Job application process completed
+2025-01-17 21:30:51,781 - ERROR - Error in main execution: EOF when reading a line
+2025-01-17 21:35:03,242 - INFO - Starting LinkedIn job applications...
+2025-01-17 21:35:30,783 - INFO - Successfully logged into LinkedIn
+2025-01-17 21:35:50,581 - ERROR - Error during LinkedIn job search: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF7356CBC22]
+	(No symbol) [0x00007FF7356CE99C]
+	(No symbol) [0x00007FF7356CEA6F]
+	(No symbol) [0x00007FF73570F38C]
+	(No symbol) [0x00007FF73573FF0A]
+	(No symbol) [0x00007FF73570BE46]
+	(No symbol) [0x00007FF735740120]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:35:50,585 - INFO - Successfully saved 0 jobs to linkedin_jobs.json
+2025-01-17 21:35:50,585 - INFO - LinkedIn application process completed
+2025-01-17 21:35:53,519 - INFO - Starting Indeed job applications...
+2025-01-17 21:36:15,820 - ERROR - Error logging in to Indeed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7358BFBE5+28741]
+	(No symbol) [0x00007FF735827890]
+	(No symbol) [0x00007FF7356C4FDA]
+	(No symbol) [0x00007FF735719322]
+	(No symbol) [0x00007FF73571954C]
+	(No symbol) [0x00007FF735763337]
+	(No symbol) [0x00007FF73573FF4F]
+	(No symbol) [0x00007FF7357600B4]
+	(No symbol) [0x00007FF73573FCB3]
+	(No symbol) [0x00007FF735709FB3]
+	(No symbol) [0x00007FF73570B331]
+	GetHandleVerifier [0x00007FF735BFA73D+3414941]
+	GetHandleVerifier [0x00007FF735C0E64A+3496618]
+	GetHandleVerifier [0x00007FF735C0413D+3454365]
+	GetHandleVerifier [0x00007FF73598848B+850155]
+	(No symbol) [0x00007FF7358337FF]
+	(No symbol) [0x00007FF73582F0C4]
+	(No symbol) [0x00007FF73582F25D]
+	(No symbol) [0x00007FF73581E079]
+	BaseThreadInitThunk [0x00007FFB46FA7374+20]
+	RtlUserThreadStart [0x00007FFB47DBCC91+33]
+
+2025-01-17 21:36:15,821 - INFO - All job application processes completed
